@@ -64,17 +64,4 @@ class RecyclerActivity : AppCompatActivity() {
         }
         callListPost?.enqueue(callback)
     }
-
-
-    private fun createStab(): List<Post>{
-        val elements = mutableListOf<Post>()
-        for (i in 1..10) {
-            elements.add(Post())
-            elements[i-1].title="$i"
-            elements[i-1].year= (i*1000).toString()
-            elements[i-1].type="movie"
-            elements[i-1].imdbID="$i"
-        }
-        return elements
-    }
 }

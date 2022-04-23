@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "591389054481",
+    "project_id": "laba3-lmassv",
+    "storage_bucket": "laba3-lmassv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591389054481:android:b2c1cf3d329ae1fc5303b0",
+        "android_client_info": {
+          "package_name": "com.example.laba3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591389054481-ah42qf4gpditt6ahk727g0ul7hsktde4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUHEGD9Qk1SRTbufgsH_2rrI4kptb4aeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591389054481-ah42qf4gpditt6ahk727g0ul7hsktde4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
